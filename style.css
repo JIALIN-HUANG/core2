@@ -1,0 +1,52 @@
+body{
+    background-color: #D4D2C5;
+
+}
+
+.rectangle1{
+position: absolute;
+width: 65px;
+height: 34px;
+left: 49px;
+top: 77px;
+
+background: #636363;
+}
+
+.rectangle2{
+    position: absolute;
+width: 65px;
+height: 34px;
+left: 133px;
+top: 77px;
+
+background: #CAB36D;
+}
+
+.rectangle3{
+    position: absolute;
+width: 65px;
+height: 34px;
+left: 217px;
+top: 77px;
+
+background: #1943B1;
+}
+
+.rectangle4{
+    position: absolute;
+width: 65px;
+height: 34px;
+left: 301px;
+top: 77px;
+
+background: #C52A0C;
+}
+
+.vn{
+    position: absolute;
+width: 412px;
+height: 511px;
+left: 2px;
+top: 214px;
+}
